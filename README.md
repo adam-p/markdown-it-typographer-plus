@@ -24,6 +24,6 @@ var md = require('markdown-it')().use(mdSmartArrows);
 Note that using this plugin will interfere with using HTML comments in your Markdown. 
 
 More arrows for potential expansion can be found here:
-http://unicode-table.com/en/sets/arrows-symbols/
+https://symbl.cc/en/collections/arrow-symbols/
 
 Originally developed for use with [Markdown Here](https://github.com/adam-p/markdown-here).
